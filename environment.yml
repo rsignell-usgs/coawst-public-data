@@ -1,0 +1,30 @@
+name: nwm
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - dask
+  - flox
+  - watermark
+  - rioxarray
+  - coiled
+  - ipykernel
+  - zarr
+  - s3fs
+  - hvplot
+  - geopandas
+  - geoviews
+  - mamba
+  - apache-beam
+  - ca-certificates
+  - certifi
+  - openssl
+  - intake-xarray
+  - vim
+  - python-gist
+  - cf_xarray
+  - kerchunk
+  - h5py
+  - fastparquet
+  - fsspec
+  - xoak
